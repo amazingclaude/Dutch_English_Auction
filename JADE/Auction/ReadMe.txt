@@ -1,10 +1,6 @@
-#Instruction of running the code:
+Instruction of running the code:
 
-1. After unZip, open cmd and directs to file"JADE".
-
-For example:
-
-cd C:\Users\Lenovo\Desktop\[Updated]AgentAssess\JADE
+1. Open CMD, and go to the directory where the "Auction" and  "jade" file exist.
 
 2. Compile the java file using:
 
